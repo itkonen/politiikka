@@ -1,0 +1,146 @@
+baseurl: https://juhaitkonen.fi/
+title: Juha Itkonen
+theme: hugo-universal-theme
+languageCode: fi
+defaultContentLanguage: fi
+disqusShortname: juhaitkonen.fi
+googleAnalytics: 'G-E2X2F39BZS'
+summaryLength: 70
+paginate: 10
+pluralizelisttitles: no
+menu:
+  main:
+    - identifier: menu.juha
+      name: Juha
+      url: /juha
+      weight: 1
+    - identifier: menu.teemat
+      name: Vaaliteemat
+      url: /vaaliteemat
+      weight: 2
+    - identifier: menu.blog
+      name: Blogi
+      url: /blog/
+      weight: 5
+    - identifier: contact
+      name: Yhteystiedot
+      url: /contact/
+      weight: 7
+  topbar:
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/itkonen
+      weight: 2
+    - name: Facebook
+      pre: <i class='fab fa-2x fa-facebook'></i>
+      url: http://facebook.com/juha.itkonen
+      weight: 3
+    - name: Twitter
+      pre: <i class='fab fa-2x fa-twitter'></i>
+      url: http://twitter.com/JuhaItkonen
+      weight: 4
+    - name: Email
+      pre: <i class='fas fa-2x fa-envelope'></i>
+      url: mailto:itkonen.juha@gmail.com
+      weight: 5
+params:
+  about_us: '<p>Nettisivujen lähdekoodi löytyy <a href = "https://github.com/itkonen/kansanedustajaksi" target="_blank">täältä</a>. Lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset, voit kommentoida sisältöä ja ehdottaa muokkauksia.</p>
+    <p><a href="/cookies/">Tietoa evästeiden käytöstä</a></p>
+  <p><a href="https://vaalit.fi/aikataulut" target="_blank">Muista äänestää 2.4.2023!</a></p>'
+  address: "
+  <p class='text-uppercase'><a href='https://twitter.com/JuhaItkonen' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i>Juha Twitterissä</a></p><br>
+    <p><a href='https://liberaalipuolue.fi' target='_blank' style='opacity: 1;'><img src='/img/lib-logo-1-fin-1-300x90.png'></a>
+  </p><br>"
+  author: Juha Itkonen
+  carouselCustomers:
+    auto_play: no
+    items: 6
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselHomepage:
+    auto_play: yes
+    enable: yes
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselTestimonials:
+    auto_play: no
+    items: 4
+    pagination_speed: 1000
+    slide_speed: 2000
+  clients:
+    enable: no
+    subtitle: ''
+    title: Our Clients
+  email: itkonen.juha@gmail.com
+  contact_form_ajax: no
+  contact_url: /contact
+  copyright: © Juha Itkonen 2022
+  date_format: 2.1.2006
+  default_sharing_image: img/sharing-default.png
+  defaultDescription: Juha Itkosen eduskuntavaalien ehdokassivu
+  defaultKeywords:
+    - eduskuntavaalit
+    - Juha Itkonen
+    - taloustieteilijä
+    - ekonomisti
+    - Liberaalipuolue
+    - Helsinki
+    - leikattavaa löytyy
+    - ilmastonmuutos
+  disabled_logo: no
+  dropdown_mouse_over: no
+  enableGoogleMaps: yes
+  enableRecaptchaInContactForm: yes
+  facebook_site: 'juha.itkonen'
+  facebook_author: 'juha.itkonen'
+  features:
+    cols: 3
+    enable: yes
+  footer:
+    recent_posts:
+      enable: yes
+  formspree_action: "https://formspree.io/f/xeqdyply"
+  googleMapsApiKey: AIzaSyDfzraO7128-JKY9V05XKN_xBS79drZM1g
+  googleRecaptchaKey: 6LfnPm0jAAAAAIDyPkg-DNN4DGcbIHp9biXpJxWD
+  latitude: '60.1719734'
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  logo_text: Juha Itkonen
+  longitude: '24.931493'
+  mainSections: blog
+  recent_posts:
+    enable: yes
+    hide_summary: no
+    # subtitle: Näillä sivuilla en aion julkaista ajatuksistani politiikasta.
+    title: Kirjoituksia
+  see_more:
+    enable: yes
+    icon: far fa-file-alt
+    link_text: Tutustu Liberaalipuolueeseen
+    link_url: 'https://liberaalipuolue.fi/'
+    subtitle: Vastuullinen yhdistelmä uudistavaa politiikkaa ja huolenpitoa heikoimmista
+    title: Uusi vaihtoehto Suomen puoluekenttään
+  twitter:
+    title: Osallistu keskusteluun Twitterissä
+  style: turquoise
+  testimonials:
+    enable: no
+    subtitle: Placeholder
+    title: Placeholder
+  topbar:
+    enable: no
+    text: "<p class=\"hidden-sm hidden-xs\">Ota yhteyttä itkonen.juha@gmail.com.</p><p class=\"hidden-md hidden-lg\"><a href=\"mailto:itkonen.juha@gmail.com\"
+      data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n
+      \     "
+  twitter_site: JuhaItkonen
+  viewMorePostLink: /blog/
+  widgets:
+    categories: yes
+    search: yes
+    tags: yes
+permalinks:
+  blog: /blog/:year/:month/:day/:filename/
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags

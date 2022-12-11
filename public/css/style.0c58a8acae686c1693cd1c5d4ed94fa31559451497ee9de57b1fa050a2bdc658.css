@@ -1,0 +1,30 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* fix uri fragment links going under navbar */
+h2::before {
+    display: block;
+    content: " ";
+    margin-top: -75px;
+    height: 75px;
+    visibility: hidden;
+    pointer-events: none
+}
+
+div.container[role="main"], div#blog-post {
+    margin-bottom: 3rem;
+}

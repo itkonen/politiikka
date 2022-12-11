@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juha Itkonen</title>
+    <link>https://juhaitkonen.fi/</link>
+    <description>Recent content on Juha Itkonen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juhaitkonen.fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ehdokassivut julkaistu</title>
+      <link>https://juhaitkonen.fi/blog/2022/11/26/ehdokassivut_julkaistu/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/blog/2022/11/26/ehdokassivut_julkaistu/</guid>
+      <description>&lt;p&gt;Suomessa järjestetään eduskuntavaalit 2.4.2023, ja olen ehdolla kansanedustajaksi Helsingissä Liberaalipuolueen listalla.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evästeet</title>
+      <link>https://juhaitkonen.fi/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/cookies/</guid>
+      <description>Tällä sivustolla käytetään Googlen evästeitä sivuston kävijätilastojen seuraamiseen Google Analyticsin avulla.</description>
+    </item>
+    
+    <item>
+      <title>Kuka Juha?</title>
+      <link>https://juhaitkonen.fi/juha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/juha/</guid>
+      <description>Olen neljän pienen lapsen isä ja haluan varmistaa, että Suomi on hyvä paikka elää myös tulevaisuudessa.
+Koulutus Olen 39-vuotias ja koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteiden kandidaatti matematiikasta. Väitöskirjani tein ilmastonmuutoksen ja verkostojen taloustieteestä. Tutkimusaiheeni ovat olleet varsin poikkitieteellisiä ja käsitelleet ilmastonmuutoksen hillitsemisen politiikkavälineitä, sosiaalisia verkostoja, henkilökohtaisia arvoja ja persoonallisuuspiirteitä sekä tilastollisia menetelmiä.
+Työ Työskentelen perustajaosakkaana Robonomistilla, joka on tiedolla johtamisen datapalveluja tarjoava startup-yritys. Nykyinen työnkuvani on pääosin koodaamista, datatiedettä, kansantalouden analysointia ja yrityksen johtamista.</description>
+    </item>
+    
+    <item>
+      <title>Vaaliteemat</title>
+      <link>https://juhaitkonen.fi/vaaliteemat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/vaaliteemat/</guid>
+      <description>Ympäristö  Luonnon kantokyky asettaa rajat ihmisen toiminnalle. Suomen on tehtävä osansa ilmastonmuutoksen ja luontokadon torjumiseksi.
+ Ilmastonmuutoksen ja luontokadon pysäyttäminen on yksi sukupolvemme suurimpia haasteita. Suomen on tehtävä osansa, jotta luonto säilyy elinkelpoisena tuleville sukupolville. Kehittämällä uutta teknologiaa voimme auttaa myös muita maita tekemään osansa.
+Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee käyttää vaikuttavia ja kustannustehokkaita ohjauskeinoja.
+Talouskasvu  Työllisyyden ja tuottavuuden kasvu nostaa kansalaisten elintasoa ja tukee hyvinvointia. Uudistamalla talouden rakenteita luodaan suotuisampi ympäristö talouden ja hyvinvoinnin kasvulle.</description>
+    </item>
+    
+    <item>
+      <title>Yhteystiedot</title>
+      <link>https://juhaitkonen.fi/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/contact/</guid>
+      <description>Ota yhteyttä! Herättivätkö vaaliteemani ajatuksia? Mikä mielestäsi olisi tärkeää tulevalla vaalikaudella? Asialliset argumentit ovat aina tervetulleita.
+Helpoiten saat minuun yhteyden Twitterissä, jossa osallistun keskusteluun aktiivisesti.
+Näiden nettisivujen lähdekoodi on julkaistu ja se löytyy täältä. Avoimesta lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset. Voit kommentoida sisältöä ja ehdottaa muokkauksia.</description>
+    </item>
+    
+  </channel>
+</rss>

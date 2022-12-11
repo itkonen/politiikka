@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://juhaitkonen.fi/blog/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juhaitkonen.fi/categories/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juhaitkonen.fi/blog/2022/11/26/ehdokassivut_julkaistu/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juhaitkonen.fi/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juhaitkonen.fi/categories/vaalit/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juhaitkonen.fi/authors/</loc>
+  </url><url>
+    <loc>https://juhaitkonen.fi/cookies/</loc>
+  </url><url>
+    <loc>https://juhaitkonen.fi/juha/</loc>
+  </url><url>
+    <loc>https://juhaitkonen.fi/tags/</loc>
+  </url><url>
+    <loc>https://juhaitkonen.fi/vaaliteemat/</loc>
+  </url><url>
+    <loc>https://juhaitkonen.fi/contact/</loc>
+  </url>
+</urlset>

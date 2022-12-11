@@ -1,0 +1,13 @@
+{{ if isset .Site.Params "twitter" }}
+<section class="bar background-image-fixed-1 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+
+        <div class="col-md-12">
+            <h3 class="text-uppercase">{{ .Site.Params.twitter.title | markdownify }}</h3>
+            <a class="twitter-timeline" data-width="970" data-height="600" href="https://twitter.com/JuhaItkonen?ref_src=twsrc%5Etfw">Juha Twitterissä</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</section>
+{{ end }}

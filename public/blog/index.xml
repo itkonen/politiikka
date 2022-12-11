@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Juha Itkonen</title>
+    <link>https://juhaitkonen.fi/blog/</link>
+    <description>Recent content in Blog on Juha Itkonen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juhaitkonen.fi/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ehdokassivut julkaistu</title>
+      <link>https://juhaitkonen.fi/blog/2022/11/26/ehdokassivut_julkaistu/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/blog/2022/11/26/ehdokassivut_julkaistu/</guid>
+      <description>&lt;p&gt;Suomessa järjestetään eduskuntavaalit 2.4.2023, ja olen ehdolla kansanedustajaksi Helsingissä Liberaalipuolueen listalla.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
