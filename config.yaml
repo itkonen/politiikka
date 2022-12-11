@@ -26,23 +26,6 @@ menu:
       name: Yhteystiedot
       url: /contact/
       weight: 7
-  topbar:
-    - name: GitHub
-      pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/itkonen
-      weight: 2
-    - name: Facebook
-      pre: <i class='fab fa-2x fa-facebook'></i>
-      url: http://facebook.com/juha.itkonen
-      weight: 3
-    - name: Twitter
-      pre: <i class='fab fa-2x fa-twitter'></i>
-      url: http://twitter.com/JuhaItkonen
-      weight: 4
-    - name: Email
-      pre: <i class='fas fa-2x fa-envelope'></i>
-      url: mailto:itkonen.juha@gmail.com
-      weight: 5
 params:
   about_us: '<p>Nettisivujen lähdekoodi löytyy <a href = "https://github.com/itkonen/kansanedustajaksi" target="_blank">täältä</a>. Lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset, voit kommentoida sisältöä ja ehdottaa muokkauksia.</p>
     <p><a href="/cookies/">Tietoa evästeiden käytöstä</a></p>
@@ -128,10 +111,8 @@ params:
     subtitle: Placeholder
     title: Placeholder
   topbar:
-    enable: no
-    text: "<p class=\"hidden-sm hidden-xs\">Ota yhteyttä itkonen.juha@gmail.com.</p><p class=\"hidden-md hidden-lg\"><a href=\"mailto:itkonen.juha@gmail.com\"
-      data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n
-      \     "
+    enable: yes
+    text: "<p>Liberaalipuolueen eduskuntavaaliehdokas Helsingin vaalipiirissä</p>"
   twitter_site: JuhaItkonen
   viewMorePostLink: /blog/
   widgets:

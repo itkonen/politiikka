@@ -1,0 +1,9 @@
+{{ if .Site.Params.topbar.enable }}
+<header>
+  <div id="top">
+      <div class="container">
+          {{ .Site.Params.topbar.text | safeHTML }}
+    </div>
+  </div>
+</header>
+{{ end }}
