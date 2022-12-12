@@ -60,7 +60,7 @@ params:
   copyright: © Juha Itkonen 2022
   date_format: 2.1.2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Juha Itkosen eduskuntavaalien ehdokassivu
+  defaultDescription: Juha Itkosen eduskuntavaalien ehdokassivu, Liberaalipuolue, Helsingin vaalipiiri
   defaultKeywords:
     - eduskuntavaalit
     - Juha Itkonen
@@ -112,7 +112,7 @@ params:
     title: Placeholder
   topbar:
     enable: yes
-    text: "<p>Liberaalipuolueen eduskuntavaaliehdokas Helsingin vaalipiirissä</p>"
+    text: "<p>Liberaalipuolueen eduskuntavaaliehdokas Helsingissä</p>"
   twitter_site: JuhaItkonen
   viewMorePostLink: /blog/
   widgets:
