@@ -22,7 +22,7 @@ Tykkään kokeilla ja opetella uusia asioita, ja elämän varrella olen ehtinyt 
 
 ## Politiikka
 
-**Olen politiikassa mukana nyt ensimmäistä kertaa.** Pyrin eduskuntaan, jotta voisin parantaa suomalainen arkea ja politiikan kulttuuria. Uskon siihen, että viisaat päätökset syntyvät kuuntelemalla asiantuntijoita, hyödyntämällä tutkittua tietoa ja punnitsemalla huolellisesti vaikutuksia kansalaisille.
+**Olen politiikassa mukana nyt ensimmäistä kertaa.** Pyrin eduskuntaan, jotta voisin parantaa suomalaisten arkea ja politiikan kulttuuria. Uskon siihen, että viisaat päätökset syntyvät kuuntelemalla asiantuntijoita, hyödyntämällä tutkittua tietoa ja punnitsemalla huolellisesti vaikutuksia kansalaisille.
 
 Millainen olisin kansanedustajan? Se selviää varmuudella vasta eduskunnassa, mutta haluaisin, että minut tunnetaan siitä, että olen rehellinen ja tunnollinen sekä aikaansaava ja vastuullinen.
 
