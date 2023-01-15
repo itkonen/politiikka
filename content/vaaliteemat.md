@@ -12,6 +12,8 @@ Ilmastonmuutoksen ja luontokadon pysäyttäminen on yksi sukupolvemme suurimpia 
 
 Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee käyttää vaikuttavia ja kustannustehokkaita ohjauskeinoja.
 
+* [Välineet ilmastonmuutoksen hillitsemiseksi](https://ilmastoraportti.juhaitkonen.fi/)
+
 
 ## Talouskasvu {#talouskasvu}
 
@@ -33,6 +35,9 @@ Budjetin tasapainottaminen on tehtävä turhia menoja leikkaamalla ja talouden r
 Valtion tärkeimpiä tehtäviä on järjestää sosiaaliturva, terveyspalvelut, oikeusjärjestelmä, sisäinen ja ulkoinen turvallisuus, pelastustoiminta, varhaiskasvatus ja koulutus, ympäristönsuojelu, infrastruktuuri ja demokratian puitteet. Valtion tehtävä on myös luoda markkinoille toimintaedellytykset, jotta ne palvelisivat kansalaisten hyvinvointia parhaalla mahdollisella tavalla.
 
 Valtion tehtävä ei ole tehdä kulutusvalintoja kansalaisten puolesta ilman painavia perusteita. Ihmisillä on oikeus määrittää itse, mitä pitävät elämässä arvokkaana.
+
+* [Jatkuva velkaantuminen on lopetettava nopeasti]({{< ref "/blog/velkaantuminen.md" >}})
+* [Suomi velkaantuu holtittomasti – vippihuuma ja nousevat korot uhkaavat hyvinvointivaltiota](https://www.taloustaito.fi/blogit/juha-itkonen/suomi-velkaantuu-holtittomasti--vippihuuma-ja-nousevat-korot-uhkaavat-hyvinvointivaltiota/)
 
 ## Lapset ja nuoret
 

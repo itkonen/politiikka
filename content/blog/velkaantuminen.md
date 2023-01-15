@@ -8,7 +8,7 @@ categories:
 tags:
   - budjetti
   - velkaantuminen
-summary: Julkinen talous on sopeutettava yhden vaalikauden aikana. Menoja on leikattavaa ja talouden rakenteita uudistettava rohkeasti. Sopeutussuunnitelman on oltava uskottava ja pitävä, jotka näkymä tulevaisuuteen on selkeä.
+summary: Julkinen talous on sopeutettava seuraavan vaalikauden aikana.
 ---
 
 ***
