@@ -1,18 +1,25 @@
 ---
 title: Jatkuva velkaantuminen on lopetettava nopeasti
-author:
-  - Juha Itkonen
+author: Juha Itkonen
 date: 2023-01-15
 banner: img/banners/polku.jpg
 categories:
   - talous
+tags:
   - budjetti
   - velkaantuminen
 ---
 
-Julkinen talous on sopeutettava yhden vaalikauden aikana
-Menoja on leikattavaa ja talouden rakenteita uudistettava rohkeasti
-Sopeutussuunnitelman on oltava uskottava ja pitävä, jotka näkymä tulevaisuuteen on kirkas.
+***
+
+#### Lyhyesti:
+* **Julkinen talous on sopeutettava yhden vaalikauden aikana.**
+* **Menoja on leikattavaa ja talouden rakenteita uudistettava rohkeasti.**
+* **Sopeutussuunnitelman on oltava uskottava ja pitävä, jotka näkymä tulevaisuuteen on selkeä.**
+
+***
+
+<!--more-->
 
 Suomen julkinen talous on päästetty todella huonoon kuntoon. Suomi on elänyt yli varojensa ja velkataakka on kasvanut lähes 15 vuoden ajan.
 
@@ -90,7 +97,7 @@ Tulevan vaalikauden aikana todennäköisesti ilmenee uusia akuutteja menotarpeit
 
 Yksinkertainen periaate on asettaa leikkauksille budjettitasapainoon johtava vuositason tahti, jonka ylittämällä hallitus voi “ansaita” itselleen lisää liikkumatilaa budjetin suhteen. Toisin sanoen leikkausten on pysyttävä tasapainoon vievällä polulla. Kun seuraavan vuoden budjettiin on saatu tehtyä tarvittavat leikkaukset, niin voidaan menoja lisätä, jos lisäksi vielä tehdään ylimääräisiä leikkauksia.
 
-## Valoisa tulevaisuus?
+## Valoisampi tulevaisuus
 
 Julkinen talous on siis ajettu todella huonoon kuntoon, mutta se ei tarkoita, että Suomessa olisi kaikki pielessä ja tulevaisuus synkkä. Suomi on yhä yksi maailman parhaista paikoista elää, ja meillä on kaikki edellytykset, että näin olisi jatkossakin. Julkinen sektori ei ole kaikki mitä elämässä on. Valtio ei yksin määritä kansalaisten onnellisuutta.
 
