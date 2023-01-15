@@ -8,6 +8,7 @@ categories:
 tags:
   - budjetti
   - velkaantuminen
+summary: Julkinen talous on sopeutettava yhden vaalikauden aikana. Menoja on leikattavaa ja talouden rakenteita uudistettava rohkeasti. Sopeutussuunnitelman on oltava uskottava ja pitävä, jotka näkymä tulevaisuuteen on selkeä.
 ---
 
 ***
@@ -18,8 +19,6 @@ tags:
 * **Sopeutussuunnitelman on oltava uskottava ja pitävä, jotka näkymä tulevaisuuteen on selkeä.**
 
 ***
-
-<!--more-->
 
 Suomen julkinen talous on päästetty todella huonoon kuntoon. Suomi on elänyt yli varojensa ja velkataakka on kasvanut lähes 15 vuoden ajan.
 
