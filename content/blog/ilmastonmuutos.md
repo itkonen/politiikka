@@ -25,13 +25,13 @@ Ilmastonmuutos on yksi ihmiskunnan tärkeimmistä kohtalonkysymyksistä. Ilmasto
 
 Ilmastonmuutos kannattaa pysäyttää, ja suomalaisten on tehtävä siinä osansa. Velvollisuutemme on jättää tuleville sukupolville elinkelpoinen planeetta.
 
-## Meillä on tarvittavat kehinot
+## Meillä on tarvittavat keinot
 
 Ilmastonmuutoksen pysäyttämiseksi ei kuitenkaan kannata käyttää mitä hyvänsä keinoja, vaan ilmastotoimien on oltava vaikuttavia, kustannustehokkaita ja oikeudenmukaisia. Ilmastotoimien hyötyjä ja kustannuksia on punnittava kuten kaikilla muillakin politiikan osa-alueilla. Ilmastotoimet vievät resursseja muilta hyvinvoinnin kannalta tärkeiltä asioilta, ja siksi ilmastopolitiikassa on käytettävä tutkitusti toimivia välineitä.
 
 Onneksi ilmastonmuutoksen pysäyttämiseksi on olemassa kaikki tarvittavat politiikkavälineet. Tieteellinen kirjallisuus ilmastonmuutoksen politiikkavälineistä ulottuu noin sata vuotta historiaan. Voidaan melkeinpä sanoa, että ratkaisut ovat vanhempia kuin ongelma itse. Tärkeimmät ratkaisun elementit ovat jo puoli vuosisataa vanhoja.
 
-Väitöskirjani käsitteli ilmastonmuutoksen hillinnän taloustiedettä, ja olen kirjoittanut yleistajuisen raportin tutkimuskirjallisuuden tarjoamista politiikkasuosituksista. Välineet ilmastonmuutoksen hillitsemiseksi -raportti pyrkii kuvaamaan mitä hyvältä ilmastopolitiikalta tulisi odottaa ja millaisia välineitä ilmastonmuutoksen torjuntaan on tarjolla.
+[Väitöskirjani](https://helda.helsinki.fi/handle/10138/153853) käsitteli ilmastonmuutoksen hillinnän taloustiedettä, ja olen kirjoittanut yleistajuisen raportin tutkimuskirjallisuuden tarjoamista politiikkasuosituksista. [Välineet ilmastonmuutoksen hillitsemiseksi](https://ilmastoraportti.juhaitkonen.fi/index.html) -raportti pyrkii kuvaamaan mitä hyvältä ilmastopolitiikalta tulisi odottaa ja millaisia välineitä ilmastonmuutoksen torjuntaan on tarjolla.
 
 ## Hiilen hinnottelu toimii
 
@@ -45,7 +45,7 @@ On ollut ilo huomata, että viime vuosina myös elinkeinoelämä on tarttunut su
 
 Vaikka viime vuosina Suomea ja muuta maailmaa on kohdannut monet kriisit, ne eivät poista ilmastonmuutoksen aiheuttamaa uhkaa, vaikka ympäristöongelmat ovat ymmärrettävästi muiden aiheiden varjoon. Fysiikan lait jylläävät, vaikkemme niitä ehdi huomioimaan. Ilmastotavoitteista on silti pidettävä kiinni, koska tulevaisuutemme riippuu niistä.
 
-On myös syytä korostaa, että ilmastopolitiikan vuoksi ei tarvitse kasvattaa verokertymää tai lisätä kokonaismenoja. Ilmastopolitiikan vaikutus julkisen talouden tasapainoon riippuu siitä, millaisia politiikkavälineitä valitsemme, ja vaikutukset voidaan kompensoida muulla budjetissa.
+On myös syytä korostaa, että ilmastopolitiikan vuoksi ei tarvitse kasvattaa verokertymää tai lisätä kokonaismenoja. [Ilmastopolitiikan vaikutus julkisen talouden tasapainoon](https://www.vtv.fi/app/uploads/2020/10/VTV-Selvitys-3-2020-Ilmastotavoitteet-ja-valtiontalouden-kestavyys.pdf) riippuu siitä, millaisia politiikkavälineitä valitsemme, ja vaikutukset voidaan kompensoida muulla budjetissa.
 
 Ilmastonmuutoksen pysäyttäminen ei ole mahdottoman kallista, vaikkakin kustannus on noussut vitkuttelun vuoksi. Ilmastonmuutokseen liittyvä ideologinen sekoilu ja denialismi on tuhlannut aikaa, joten päästövähennykset tulevat kalliimmaksi vaaditun nopean aikataulun ja jo aiheutuneiden ympäristöhaittojen vuoksi.
 
