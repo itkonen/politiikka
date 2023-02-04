@@ -12,6 +12,7 @@ Ilmastonmuutoksen ja luontokadon pysäyttäminen on yksi sukupolvemme suurimpia 
 
 Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee käyttää vaikuttavia ja kustannustehokkaita ohjauskeinoja.
 
+* [Meillä on hyvät välineet ilmastonmuutoksen pysäyttämiseksi – käytetään niitä!]({{< ref "/blog/ilmastonmuutos.md" >}})
 * [Välineet ilmastonmuutoksen hillitsemiseksi](https://ilmastoraportti.juhaitkonen.fi/)
 
 
@@ -64,4 +65,6 @@ Suomen koulutustaso on käännettävä takaisin kasvuun lisäämällä korkeakou
 Demokratiaa on vahvistettava, ja vallan keskittymisen ja vastuuttoman populismin uhkaan on vastattava lisäämällä päätöksenteon avoimuutta ja läpinäkyvyyttä. Kansalaisten luottamus on ansaittava vastuullisella ja rehellisellä politiikalla eikä holtittomalla rahanjaolla ja tukiaisilla.
 
 Korruptiota esiintyy myös Suomessa ja siihen puututtava nykyistä tiukemmin. Politiikan hyvä veli -verkostojen, poliittisten virkanimitysten ja veikkauskratian kaltaista rakenteellista korruptiota on torjuttava ja sen synnyttämiä rakenteita on purettava.
+
+* [Millainen ihminen haluaa kansanedustajaksi? Millainen valikoituu?]({{< ref "/blog/valikoituminen.md" >}})
 
