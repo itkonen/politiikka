@@ -1,6 +1,6 @@
 ---
 id: page
-title: Vaaliteemat
+title: Tavoitteet
 description: Juha Itkosen vaaliteemat
 ---
 
@@ -8,11 +8,10 @@ description: Juha Itkosen vaaliteemat
 
 > Luonnon kantokyky asettaa rajat ihmisen toiminnalle. Suomen on tehtävä osansa ilmastonmuutoksen ja luontokadon torjumiseksi.
 
-Ilmastonmuutoksen ja luontokadon pysäyttäminen on yksi sukupolvemme suurimpia haasteita. Suomen on tehtävä osansa, jotta luonto säilyy elinkelpoisena tuleville sukupolville. Kehittämällä uutta teknologiaa voimme auttaa myös muita maita tekemään osansa.
+Ilmastonmuutoksen ja luontokadon pysäyttäminen ovat aikamme suurimpia haasteita. Helsingin on toimittava esimerkillisesti, jotta kaupunkiluonto säilyy elinvoimaisena myös tuleville sukupolville. Kaupungin on omilla päätöksillään edistettävä vähäpäästöisiä energiaratkaisuja, laadukasta pyöräily- ja joukkoliikenneinfraa sekä viheralueiden ja ranta-alueiden monimuotoista suojelua ja kehittämistä.
 
-Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee käyttää vaikuttavia ja kustannustehokkaita ohjauskeinoja.
+Helsingin tulee edistää ympäristöarvoja vaikuttavasti ja kustannustehokkaasti, huomioiden kansallisen ja kansainvälisen ilmastopolitiikan asettamat reunaehdot. Helsingin kaupunginvaltuustossa tehdään monia ympäristön kannalta merkittäviä päätöksiä, jotka vaikuttavat helsinkiläisten päästöihin ja myös hyvinvointiin. Kaupungin on tehtävä tutkimukseen perustuen päätöksiä muun muassa liikenteen, asumisen ja energiantuotannon osalta, jotta päästöjä saadaan vähennettyä ja luonnon monimuotoisuutta vahvistettua tehokkaasti.
 
-* [Meillä on hyvät välineet ilmastonmuutoksen pysäyttämiseksi – käytetään niitä!]({{< ref "/blog/ilmastonmuutos.md" >}})
 * [Välineet ilmastonmuutoksen hillitsemiseksi](https://ilmastoraportti.juhaitkonen.fi/)
 
 
@@ -20,51 +19,45 @@ Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee k�
 
 > Työllisyyden ja tuottavuuden kasvu nostaa kansalaisten elintasoa ja tukee hyvinvointia. Uudistamalla talouden rakenteita luodaan suotuisampi ympäristö talouden ja hyvinvoinnin kasvulle.
 
-Teknologisen kehityksen aikaansaama työn tuottavuuden kasvu kansantaloudessa on pitkällä aikavälillä hyvinvoinnin lisääntymisen tärkein lähde. Palkkojen nousu, hyvinvointipalveluiden laadun paraneminen ja vapaa-ajan lisääntyminen edellyttävät elinvoimaista ja kehittyvää kansantaloutta.
+Teknologisen kehityksen ja tuottavuuden kasvu ovat pitkällä aikavälillä hyvinvoinnin lisääntymisen keskeisiä ajureita. Helsingin tulisi edistää uusia innovaatioita, osaamista ja yrittäjyyttä, jotta palkat voivat nousta, hyvinvointipalvelut kehittyä ja vapaa-ajan laatu lisääntyä.
 
-Yhteiskunnan on tarjottava puitteet tehokkaille ja kilpailullisille markkinoilla. Valtion rooli on korjata markkinoiden puutteita ja taata, että hyvinvointi jakautuu oikeudenmukaisesti ja reilusti.
+Kaupunki voi tarjota puitteet tehokkaille ja kilpailullisille markkinoille, jotka kannustavat yrityksiä investoimaan ja luomaan uusia työpaikkoja sekä laadukkaita palveluita kaupunkilaisille. Julkisen sektorin tehtävä on luoda talouskasvun edellytyksiä, huolehtia infrastruktuurista, koulutuksesta ja palveluista sekä varmistaa, että kasvun hyödyt jakautuvat oikeudenmukaisesti kaupunkilaisten kesken.
 
 
 ## Julkinen talous
 
-> Valtion jatkuva velkaantuminen pitää lopettaa. Leikkaamalla epäolennaisista menoista voidaan turvata tärkeimpien hyvinvointipalveluiden rahoitus.
+> Kaupungin talouden vastuullinen hoito on edellytys hyvinvointipalveluiden turvaamiselle myös tulevaisuudessa.
 
-Valtiontalous on kestämättömällä pohjalla, ja velkaantuminen on jatkunut jo 14 vuotta. Budjetti on saatava tasapainoon, jotta valtio pystyy tulevaisuudessakin hoitamaan tärkeimpiä tehtäviään, takaamaan kansalaisten hyvinvointia ja suojaamaan yhteiskuntaa tulevilta kriiseiltä.
+Helsingin on hoidettava talouttaan pitkäjänteisesti ja kestävästi. Kaupungin vastuulla ovat monet kaupunkilaisten hyvinvoinnin ja arjen sujuvuuden kannalta keskeiset palvelut, kuten terveydenhuolto, sosiaalipalvelut, koulutus ja liikenne.
 
-Budjetin tasapainottaminen on tehtävä turhia menoja leikkaamalla ja talouden rakenteita uudistamalla, jotta veroja ei tarvitse korottaa eikä heikoimpien sosiaaliturvasta, koulutuksesta tai muista valtion tärkeimmistä tehtävistä tarvitse tinkiä.
+Turhia menoja on karsittava ja julkisten varojen käyttöä tehostettava, jotta yhteiset varat riittävät kaupungin perustehtävien hoitamiseen eikä verorasitus kasva kohtuuttomaksi. Kaupungin on myös varauduttava tuleviin haasteisiin, kuten väestön ikääntymiseen ja ilmastonmuutokseen, jotta se voi tarjota laadukkaita palveluita myös tulevaisuudessa.
 
-Valtion tärkeimpiä tehtäviä on järjestää sosiaaliturva, terveyspalvelut, oikeusjärjestelmä, sisäinen ja ulkoinen turvallisuus, pelastustoiminta, varhaiskasvatus ja koulutus, ympäristönsuojelu, infrastruktuuri ja demokratian puitteet. Valtion tehtävä on myös luoda markkinoille toimintaedellytykset, jotta ne palvelisivat kansalaisten hyvinvointia parhaalla mahdollisella tavalla.
+Julkisen sektorin on keskityttävä tuottamaan palveluita, joita markkinat eivät kykene tarjoamaan tehokkaasti. Näin kansalaisten valinnanvapauteen puututaan mahdollisimman vähän, ja ihmiset saatava itse määrittää, mitä he pitävät arvokkaana.
 
-Valtion tehtävä ei ole tehdä kulutusvalintoja kansalaisten puolesta ilman painavia perusteita. Ihmisillä on oikeus määrittää itse, mitä pitävät elämässä arvokkaana.
-
-* [Jatkuva velkaantuminen on lopetettava nopeasti]({{< ref "/blog/velkaantuminen.md" >}})
-* [Suomi velkaantuu holtittomasti – vippihuuma ja nousevat korot uhkaavat hyvinvointivaltiota](https://www.taloustaito.fi/blogit/juha-itkonen/suomi-velkaantuu-holtittomasti--vippihuuma-ja-nousevat-korot-uhkaavat-hyvinvointivaltiota/)
 
 ## Lapset ja nuoret
 
-> Yhteiskunnan tärkeimpiä tehtäviä on varmistaa lapsille hyvä alku elämään. Varhaiskasvatus, koulutus ja nuorten mielenterveyspalvelut tarvitsevat riittävät resurssit.
+> Yhteiskunnan tärkeimpiä tehtäviä on varmistaa lapsille hyvä alku elämään. Helsingissä varhaiskasvatus, koulutus ja nuorten mielenterveyspalvelut tulee resursoida niin, että kukaan ei jää ilman tarvitsemaansa tukea.
 
-Mahdollisuuksien tasa-arvo edellyttää, että jokaiselle lapselle on tarjolla laadukasta varhaiskasvatusta ja koulutusta sekä lapsen tarpeiden mukaista tukea. Nuorten mielenterveysongelmien ja syrjäytymisen ennaltaehkäisemiseen ja hoitoon on panostettava nykyistä enemmän.
+Mahdollisuuksien tasa-arvo tarkoittaa, että jokaiselle lapselle on tarjolla laadukas varhaiskasvatus ja koulutus sekä lapsen tarpeiden mukainen tuki. Nuorten mielenterveysongelmien ehkäisyyn ja hoitoon on panostettava entistä määrätietoisemmin: helppokäyttöiset, matalan kynnyksen mielenterveyspalvelut ja harrastusmahdollisuudet voivat ehkäistä syrjäytymistä ja vahvistaa nuorten hyvinvointia.
 
-Yhteiskunnan on osoitettava lasten ja nuorten palveluihin riittävät resurssit, jotta alalle saadaan houkuteltua riittävästi osaavaa työvoimaa.
+Helsingin on kohdennettava riittävästi resursseja lasten ja nuorten palveluihin, jotta alalle voidaan houkutella osaavia ammattilaisia ja varmistaa laadukkaiden, helposti saavutettavien palvelujen jatkuvuus.
 
-## Kehitys
 
-> Tieteellinen perustutkimus, tutkimus- ja kehittämistoiminta, innovaatiot sekä sivistys ovat tärkeitä edistyksen ja tulevaisuuden hyvinvoinnin ajureita. Korkeakoulujen aloituspaikkoja on lisättävä.
+## Jatkuva kehitys
 
-Tieteellinen perustutkimus, tutkimus-, kehittämis- ja innovaatiotoiminta ovat sivistyneen maailmankuvan sekä korkean elintason perusta. Syvempi ymmärrys luonnosta, ihmisistä ja yhteiskunnasta auttaa meitä ratkomaan tulevaisuuden haasteita ja menestymään maailmassa.
+> Tieteellinen perustutkimus, tutkimus-, kehittämis- ja innovaatiotoiminta sekä sivistys ovat edistyksen ja tulevaisuuden hyvinvoinnin perusta. Korkeakoulujen aloituspaikkoja on lisättävä.
 
-Tutkittua tietoa tulisi hyödyntää poliittisessa päätöksenteossa nykyistä enemmän.
+Helsingillä on erinomaiset edellytykset olla kansainvälisesti arvostettu tieteen, koulutuksen ja innovaatioiden keskus. Yhteistyö korkeakoulujen, tutkimuslaitosten, yritysten ja julkisen sektorin välillä on välttämätöntä uusien ratkaisujen ja korkeatasoisen osaamisen syntymiselle. Syvällinen ymmärrys luonnosta, ihmisistä ja yhteiskunnasta luo perustan kilpailukyvylle, elinvoimalle ja kestävälle kehitykselle.
+
+Kaupunki voi edistää tietopohjaista päätöksentekoa hyödyntämällä tutkittua tietoa entistä laajemmin. Samalla Helsingin on tuettava oppilaitosten ja tutkimusorganisaatioiden edellytyksiä kouluttaa uusia osaajia, joita tarvitaan tulevaisuuden haasteiden ratkaisemiseen. Tarvittaessa kaupunki voi vaikuttaa valtion suuntaan korkeakoulujen aloituspaikkojen lisäämiseksi ja vahvistaa näin Suomen koulutustasoa sekä pääkaupungin asemaa älykkäänä, sivistyneenä ja menestyvänä yhteisönä.
 
 Suomen koulutustaso on käännettävä takaisin kasvuun lisäämällä korkeakoulujen aloituspaikkoja.
 
 ## Demokratia
 
-> Demokratian vahvistamiseksi poliitikkojen on ansaittava kansalaisten luottamus lisäämällä avoimuutta, läpinäkyvyyttä, vastuullisuutta ja rehellisyyttä päätöksenteossa.
+> Demokratian vahvistamiseksi päättäjien on ansaittava kansalaisten luottamus avoimella, läpinäkyvällä, vastuullisella ja rehellisellä toiminnalla.
 
-Demokratiaa on vahvistettava, ja vallan keskittymisen ja vastuuttoman populismin uhkaan on vastattava lisäämällä päätöksenteon avoimuutta ja läpinäkyvyyttä. Kansalaisten luottamus on ansaittava vastuullisella ja rehellisellä politiikalla eikä holtittomalla rahanjaolla ja tukiaisilla.
+Helsingissä on varmistettava, että päätöksenteko on avointa ja helposti seurattavaa. Vallan keskittymistä ja vastuuttoman populismin uhkaa tulee torjua lisäämällä asukkaiden vaikuttamismahdollisuuksia, parantamalla viestintää ja varmistamalla, että kaupunkilaisten ääni kuuluu heitä koskevissa ratkaisuissa.
 
-Korruptiota esiintyy myös Suomessa ja siihen puututtava nykyistä tiukemmin. Politiikan hyvä veli -verkostojen, poliittisten virkanimitysten ja veikkauskratian kaltaista rakenteellista korruptiota on torjuttava ja sen synnyttämiä rakenteita on purettava.
-
-* [Millainen ihminen haluaa kansanedustajaksi? Millainen valikoituu?]({{< ref "/blog/valikoituminen.md" >}})
-
+Myös paikallistasolla esiintyvään rakenteelliseen korruptioon on puututtava tiukasti. Politiikan hyvä veli -verkostot, poliittiset virkanimitykset ja muut sisäpiirirakenteet heikentävät kansalaisten luottamusta. Helsingin on purettava tällaiset käytännöt, vahvistettava eettisiä ohjeita ja varmistettava, että kaupungin valintoja ohjaa aina kaupunkilaisten etu.

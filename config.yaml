@@ -27,9 +27,9 @@ menu:
       url: /contact/
       weight: 7
 params:
-  about_us: '<p>Nettisivujen lähdekoodi löytyy <a href = "https://github.com/itkonen/kansanedustajaksi" target="_blank">täältä</a>. Lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset, voit kommentoida sisältöä ja ehdottaa muokkauksia.</p>
+  about_us: '<p>Nettisivujen lähdekoodi löytyy <a href = "https://github.com/itkonen/politiikka" target="_blank">täältä</a>. Lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset, voit kommentoida sisältöä ja ehdottaa muokkauksia.</p>
     <p><a href="/cookies/">Tietoa evästeiden käytöstä</a></p>
-  <p><a href="https://vaalit.fi/aikataulut" target="_blank">Muista äänestää 2.4.2023!</a></p>'
+  <p><a href="https://vaalit.fi/aikataulut" target="_blank">Muista äänestää 13.4.2025!</a></p>'
   address: "
   <p class='text-uppercase'><a href='https://twitter.com/JuhaItkonen' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i>Juha Twitterissä</a></p><br>
     <p><a href='https://liberaalipuolue.fi' target='_blank' style='opacity: 1;'><img src='/img/lib-logo-1-fin-1-300x90.png'></a>
@@ -60,9 +60,10 @@ params:
   copyright: © Juha Itkonen 2022
   date_format: 2.1.2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Juha Itkosen eduskuntavaalien ehdokassivu, Liberaalipuolue, Helsingin vaalipiiri
+  defaultDescription: Juha Itkosen ehdokassivu, Liberaalipuolue, Helsingin vaalipiiri
   defaultKeywords:
     - eduskuntavaalit
+    - kuntavaalitvaalit
     - Juha Itkonen
     - taloustieteilijä
     - ekonomisti
@@ -94,7 +95,6 @@ params:
   recent_posts:
     enable: yes
     hide_summary: no
-    # subtitle: Näillä sivuilla en aion julkaista ajatuksistani politiikasta.
     title: Kirjoituksia
   see_more:
     enable: yes
@@ -103,8 +103,8 @@ params:
     link_url: 'https://liberaalipuolue.fi/'
     subtitle: Vastuullinen yhdistelmä uudistavaa politiikkaa ja huolenpitoa heikoimmista
     title: Uusi vaihtoehto Suomen puoluekenttään
-  twitter:
-    title: Osallistu keskusteluun Twitterissä
+  # twitter:
+  #   title: Osallistu keskusteluun Twitterissä
   style: turquoise
   testimonials:
     enable: no
@@ -112,8 +112,8 @@ params:
     title: Placeholder
   topbar:
     enable: yes
-    text: "<p>Liberaalipuolueen eduskuntavaaliehdokas Helsingissä</p>"
-  twitter_site: JuhaItkonen
+    text: "<p>Liberaalipuolueen kuntavaaliehdokas Helsingissä</p>"
+  # twitter_site: JuhaItkonen
   viewMorePostLink: /blog/
   widgets:
     categories: yes

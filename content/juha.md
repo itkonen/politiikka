@@ -8,22 +8,22 @@ description: Tietoa Juha Itkosesta
 
 ## Koulutus
 
-Olen 39-vuotias ja koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteiden kandidaatti matematiikasta. [Väitöskirjani](https://helda.helsinki.fi/bof/bitstream/handle/123456789/13666/E49.pdf?sequence=1&isAllowed=y) tein ilmastonmuutoksen ja verkostojen taloustieteestä. Tutkimusaiheeni ovat olleet varsin poikkitieteellisiä ja käsitelleet [ilmastonmuutoksen hillitsemisen politiikkavälineitä](https://ilmastoraportti.juhaitkonen.fi), sosiaalisia verkostoja, henkilökohtaisia arvoja ja persoonallisuuspiirteitä sekä tilastollisia menetelmiä.
+Olen koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteiden kandidaatti matematiikasta. [Väitöskirjani](https://helda.helsinki.fi/bof/bitstream/handle/123456789/13666/E49.pdf?sequence=1&isAllowed=y) käsitteli ilmastonmuutoksen ja verkostojen taloustiedettä. Tutkimusaiheeni ovat olleet poikkitieteellisiä ja käsitelleet muun muassa [ilmastonmuutoksen hillitsemisen politiikkavälineitä](https://ilmastoraportti.juhaitkonen.fi), sosiaalisia verkostoja, henkilökohtaisia arvoja ja persoonallisuuspiirteitä sekä tilastollisia menetelmiä.
 
 ## Työ
 
-**Työskentelen perustajaosakkaana Robonomistilla**, joka on [tiedolla johtamisen datapalveluja tarjoava startup-yritys](https://robonomist.com). Nykyinen työnkuvani on pääosin koodaamista, datatiedettä, kansantalouden analysointia ja yrityksen johtamista. Aiemmin olen työskennellyt ekonomistina Suomen Pankissa, valtiovarainministeriössä ja Ifo-instituutissa sekä tutkijana Helsingin yliopistolla.
+**Työskentelen perustajaosakkaana Robonomistilla**, joka on [tiedolla johtamisen datapalveluja tarjoava startup-yritys](https://robonomist.com). Työssäni yhdistyy koodaaminen, datatiede, kansantalouden tutkiminen ja kaikenlaiset yrityksen pyörittämisen arkiset haastet. Aiemmin olen työskennellyt ekonomistina Suomen Pankissa, valtiovarainministeriössä ja Ifo-instituutissa sekä tutkijana Helsingin yliopistolla.
 
 ## Harrastukseni
 
-**Vapaa-aikani** vietän suurimmaksi osaksi perheen kanssa puuhaten ja Twitterissä keskustellen. Harrastuksiini kuuluu nykyään puutarhanhoito, kaikenlainen kodin nikkarointi ja pyöräily.
+**Vapaa-aikani** vietän suurimmaksi osaksi perheen kanssa puuhaten ja osallistuen yhteiskunnalliseen keskusteluun. Harrastuksiini kuuluu muinaiskreikka, puutarhanhoito, kaikenlainen kodin nikkarointi sekä pyöräily.
 
-Tykkään kokeilla ja opetella uusia asioita, ja elämän varrella olen ehtinyt käyttää paljon aikaa esimerkiksi oluen valmistukseen ystävien kanssa, äänitystekniikkaan ja miksaukseen, pikakirjoituksen opetteluun, tekoälymallien koodailuun, oopperassa käyntiin sekä harraste-elektroniikkaan. Maailmassa on tarjolla kaikkea jännää ja olen halunnut ottaa siitä kaiken irti.
+Luonteeltani olen utelias ja ykkään kokeilla ja opetella uusia asioita, ja elämän varrella olen ehtinyt käyttää aikaa muun muassa oluen valmistukseen ystävien kanssa, äänitystekniikkaan ja miksaukseen, pikakirjoituksen opetteluun, tekoälymallien koodailuun, oopperassa käyntiin sekä harraste-elektroniikkaan. Maailma tarjoaa kaikkea jännää, ja haluan ottaa siitä kaiken irti.
 
 ## Politiikka
 
-**Olen politiikassa mukana nyt ensimmäistä kertaa.** Pyrin eduskuntaan, jotta voisin parantaa suomalaisten arkea ja politiikan kulttuuria. Uskon siihen, että viisaat päätökset syntyvät kuuntelemalla asiantuntijoita, hyödyntämällä tutkittua tietoa ja punnitsemalla huolellisesti vaikutuksia kansalaisille.
+**Politiikassa** olen mukana, koska haluan tarjota äänestäjille fiksun ja tasapainoisen vaihtoehdon. Uskon vahvasti, että viisaat päätökset syntyvät kuuntelemalla asiantuntijoita, hyödyntämällä tutkittua tietoa ja punnitsemalla huolellisesti, miten päätökset vaikuttava kansalaisiin. Tahdon parantaa suomalaisten elämänlaatua ja kehittää politiikan kulttuuria.
 
-Millainen olisin kansanedustajan? Se selviää varmuudella vasta eduskunnassa, mutta haluaisin, että minut tunnetaan siitä, että olen rehellinen ja tunnollinen sekä aikaansaava ja vastuullinen.
+Pyrin siihen, että politiikassa minut tunnettaisiin rehellisenä ja tunnollisena sekä aikaansaavana ja vastuullisena.
 
-Euroopan komission ex-puheenjohtaja Jean-Claude Juncker sanoi aikoinaan: "Tiedämme, mitä pitäisi tehdä, mutta emme tiedä, miten tulisimme uudelleenvalituksi, jos teemme sen." Haluan, että teemme viimein sen, mitä tiedämme, että pitäisi tehdä. Siksi pyrin eduskuntaan. En vain siksi, että pääsisin eduskuntaan. Luotan siihen, että Suomessa riittää fiksuja äänestäjiä, jotka haluavat laittaa asiat kuntoon.
+Euroopan komission ex-puheenjohtaja Jean-Claude Juncker sanoi aikoinaan: "Tiedämme, mitä pitäisi tehdä, mutta emme tiedä, miten tulisimme uudelleenvalituksi, jos teemme sen." Haluan omalta osaltani olla tekemässä sellaisia päätöksiä, joiden tiedämme olevan oikeita, vaikka niiden perusteleminen on vaikeaa. Luotan siihen, että Suomessa riittää fiksuja äänestäjiä, jotka haluavat hoitaa asiat hyvin.
