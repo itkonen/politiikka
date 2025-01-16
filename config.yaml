@@ -31,7 +31,7 @@ params:
     <p><a href="/cookies/">Tietoa evästeiden käytöstä</a></p>
   <p><a href="https://vaalit.fi/aikataulut" target="_blank">Muista äänestää 13.4.2025!</a></p>'
   address: "
-  <p class='text-uppercase'><a href='https://twitter.com/JuhaItkonen' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i>Juha Twitterissä</a></p><br>
+  <p class='text-uppercase'><a href='https://bsky.app/profile/juhaitkonen.fi' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-bluesky'></i>Juha Blueskyssa</a></p><br>
     <p><a href='https://liberaalipuolue.fi' target='_blank' style='opacity: 1;'><img src='/img/lib-logo-1-fin-1-300x90.png'></a>
   </p><br>"
   author: Juha Itkonen
