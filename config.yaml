@@ -16,7 +16,7 @@ menu:
       weight: 1
     - identifier: menu.teemat
       name: Vaaliteemat
-      url: /vaaliteemat
+      url: /vaaliteemat_kv2025
       weight: 2
     - identifier: menu.blog
       name: Blogi

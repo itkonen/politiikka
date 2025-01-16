@@ -77,16 +77,27 @@
       
       <guid>https://juhaitkonen.fi/juha/</guid>
       <description>Olen neljän pienen lapsen isä ja haluan varmistaa, että Suomi on hyvä paikka elää myös tulevaisuudessa.
-Koulutus Olen 39-vuotias ja koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteiden kandidaatti matematiikasta. Väitöskirjani tein ilmastonmuutoksen ja verkostojen taloustieteestä. Tutkimusaiheeni ovat olleet varsin poikkitieteellisiä ja käsitelleet ilmastonmuutoksen hillitsemisen politiikkavälineitä, sosiaalisia verkostoja, henkilökohtaisia arvoja ja persoonallisuuspiirteitä sekä tilastollisia menetelmiä.
-Työ Työskentelen perustajaosakkaana Robonomistilla, joka on tiedolla johtamisen datapalveluja tarjoava startup-yritys. Nykyinen työnkuvani on pääosin koodaamista, datatiedettä, kansantalouden analysointia ja yrityksen johtamista.</description>
+Koulutus Olen koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteiden kandidaatti matematiikasta. Väitöskirjani käsitteli ilmastonmuutoksen ja verkostojen taloustiedettä. Tutkimusaiheeni ovat olleet poikkitieteellisiä ja käsitelleet muun muassa ilmastonmuutoksen hillitsemisen politiikkavälineitä, sosiaalisia verkostoja, henkilökohtaisia arvoja ja persoonallisuuspiirteitä sekä tilastollisia menetelmiä.
+Työ Työskentelen perustajaosakkaana Robonomistilla, joka on tiedolla johtamisen datapalveluja tarjoava startup-yritys. Työssäni yhdistyy koodaaminen, datatiede, kansantalouden tutkiminen ja kaikenlaiset yrityksen pyörittämisen arkiset haasteet.</description>
+    </item>
+    
+    <item>
+      <title>Tavoitteet</title>
+      <link>https://juhaitkonen.fi/vaaliteemat_kv2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhaitkonen.fi/vaaliteemat_kv2025/</guid>
+      <description>Ympäristö  Luonnon kantokyky asettaa rajat ihmisen toiminnalle. Suomen on tehtävä osansa ilmastonmuutoksen ja luontokadon torjumiseksi.
+ Ilmastonmuutoksen ja luontokadon pysäyttäminen ovat aikamme suurimpia haasteita. Helsingin on toimittava esimerkillisesti, jotta kaupunkiluonto säilyy elinvoimaisena myös tuleville sukupolville. Kaupungin on omilla päätöksillään edistettävä vähäpäästöisiä energiaratkaisuja, laadukasta pyöräily- ja joukkoliikenneinfraa sekä viheralueiden ja ranta-alueiden monimuotoista suojelua ja kehittämistä.
+Helsingin tulee edistää ympäristöarvoja vaikuttavasti ja kustannustehokkaasti, huomioiden kansallisen ja kansainvälisen ilmastopolitiikan asettamat reunaehdot. Helsingin kaupunginvaltuustossa tehdään monia ympäristön kannalta merkittäviä päätöksiä, jotka vaikuttavat helsinkiläisten päästöihin ja myös hyvinvointiin.</description>
     </item>
     
     <item>
       <title>Vaaliteemat</title>
-      <link>https://juhaitkonen.fi/vaaliteemat/</link>
+      <link>https://juhaitkonen.fi/vaaliteemat_ekv2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juhaitkonen.fi/vaaliteemat/</guid>
+      <guid>https://juhaitkonen.fi/vaaliteemat_ekv2023/</guid>
       <description>Ympäristö  Luonnon kantokyky asettaa rajat ihmisen toiminnalle. Suomen on tehtävä osansa ilmastonmuutoksen ja luontokadon torjumiseksi.
  Ilmastonmuutoksen ja luontokadon pysäyttäminen on yksi sukupolvemme suurimpia haasteita. Suomen on tehtävä osansa, jotta luonto säilyy elinkelpoisena tuleville sukupolville. Kehittämällä uutta teknologiaa voimme auttaa myös muita maita tekemään osansa.
 Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee käyttää vaikuttavia ja kustannustehokkaita ohjauskeinoja.
@@ -99,9 +110,9 @@ Päästöjen vähentämiseen ja luonnon monimuotoisuuden vahvistamiseen tulee k�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://juhaitkonen.fi/contact/</guid>
-      <description>Ota yhteyttä! Herättivätkö vaaliteemani ajatuksia? Mikä mielestäsi olisi tärkeää tulevalla vaalikaudella? Asialliset argumentit ovat aina tervetulleita.
-Helpoiten saat minuun yhteyden Twitterissä, jossa osallistun keskusteluun aktiivisesti.
-Näiden nettisivujen lähdekoodi on julkaistu ja se löytyy täältä. Avoimesta lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset. Voit kommentoida sisältöä ja ehdottaa muokkauksia.</description>
+      <description>Ota yhteyttä! Herättikö politiikkani ajatuksia? Mikäli sinulla on kysyttävää tai haluat keskustella jostain aiheesta, ota rohkeasti yhteyttä! Asialliset argumentit ovat aina tervetulleita.
+Parhaiten minut saa kiinni Blueskyssa, jossa osallistun keskusteluun aktiivisesti.
+Näiden nettisivujen lähdekoodi on julkaistu avoimesti ja se löytyy täältä. Avoimesta lähdekoodista näet kaikki sivuston sisältöihin tehdyt muutokset. Voit kommentoida sisältöä ja ehdottaa parannuksia.</description>
     </item>
     
   </channel>

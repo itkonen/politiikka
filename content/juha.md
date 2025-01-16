@@ -12,7 +12,7 @@ Olen koulutukseltani valtiotieteiden tohtori taloustieteestä ja luonnontieteide
 
 ## Työ
 
-**Työskentelen perustajaosakkaana Robonomistilla**, joka on [tiedolla johtamisen datapalveluja tarjoava startup-yritys](https://robonomist.com). Työssäni yhdistyy koodaaminen, datatiede, kansantalouden tutkiminen ja kaikenlaiset yrityksen pyörittämisen arkiset haastet. Aiemmin olen työskennellyt ekonomistina Suomen Pankissa, valtiovarainministeriössä ja Ifo-instituutissa sekä tutkijana Helsingin yliopistolla.
+**Työskentelen perustajaosakkaana Robonomistilla**, joka on [tiedolla johtamisen datapalveluja tarjoava startup-yritys](https://robonomist.com). Työssäni yhdistyy koodaaminen, datatiede, kansantalouden tutkiminen ja kaikenlaiset yrityksen pyörittämisen arkiset haasteet. Aiemmin olen työskennellyt ekonomistina Suomen Pankissa, valtiovarainministeriössä ja Ifo-instituutissa sekä tutkijana Helsingin yliopistolla.
 
 ## Harrastukseni
 
