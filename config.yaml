@@ -112,13 +112,16 @@ params:
     title: Placeholder
   topbar:
     enable: yes
-    text: "<p>Liberaalipuolueen kuntavaaliehdokas Helsingissä</p>"
+    text: "<p>Liberaalipuolueen kuntavaaliehdokas Helsingissä  –<strong>560</strong></p>"
   # twitter_site: JuhaItkonen
   viewMorePostLink: /blog/
   widgets:
     categories: yes
     search: yes
     tags: yes
+  bluesky:
+    title: "Osallistu keskusteluun Blueskyssa"
+    username: juhaitkonen.fi
 permalinks:
   blog: /blog/:year/:month/:day/:filename/
 taxonomies:
