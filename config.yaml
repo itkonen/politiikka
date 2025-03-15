@@ -112,7 +112,7 @@ params:
     title: Placeholder
   topbar:
     enable: yes
-    text: "<p>Liberaalipuolueen kuntavaaliehdokas Helsingissä  –<strong>560</strong></p>"
+    text: "<p>Liberaalipuolueen kuntavaaliehdokas Helsingissä | <strong># 560</strong></p>"
   # twitter_site: JuhaItkonen
   viewMorePostLink: /blog/
   widgets:
